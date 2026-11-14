@@ -4,9 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/alpha_astonc.mk
-
-COMMON_LUNCH_CHOICES := \
-    alpha_astonc-user \
-    alpha_astonc-userdebug \
-    alpha_astonc-eng
+    $(LOCAL_DIR)/lineage_astonc.mk
